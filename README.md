@@ -1,6 +1,6 @@
 # BIO
 
-<img src="./logo.png" width="400px">
+<img src="./logo.png" width="200px">
 
 ## 日本語
 

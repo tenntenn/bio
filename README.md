@@ -1,6 +1,6 @@
 # BIO
 
-![logo](logo.jpg)
+![logo](logo.png)
 
 ## 日本語
 

@@ -17,7 +17,7 @@ Go Conference主催者。golang.tokyo、Goビギナーズ、GCPUG Tokyo運営。
 * Qiita: https://qiita.com/tenntenn
 * SlideShare: https://www.slideshare.net/takuyaueda967/
 
-## 英語
+## English
 
 ### Takuya Ueda ([@tenntenn](https://twitter.com))
 

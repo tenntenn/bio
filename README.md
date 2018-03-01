@@ -13,6 +13,10 @@ Go Conference主催者。golang.tokyo、Goビギナーズ、GCPUG Tokyo運営。
 社内外で自ら勉強会を開催し、Goの普及に取り組んでいる。
 マスコットのGopherの絵を描くのも好き。
 
+Twitter: https://twitter.com
+Qiita: https://qiita.com/tenntenn
+SlideShare: https://www.slideshare.net/takuyaueda967/
+
 ## 英語
 
 ### Takuya Ueda ([@tenntenn](https://twitter.com))
@@ -21,3 +25,7 @@ Takuya Ueda is a Go engineer for Souzoh, Inc.
 He is one of organizer of Go Conference in Japan.
 He works for the growth of the Go community in Japan.
 He also loves the Go Gopher and drawing Gopher illustrations.
+
+Twitter: https://twitter.com
+Qiita: https://qiita.com/tenntenn
+SlideShare: https://www.slideshare.net/takuyaueda967/

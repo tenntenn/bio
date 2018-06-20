@@ -7,7 +7,7 @@
 ### 上田 拓也 ([@tenntenn](https://twitter.com))
 
 メルカリ／メルペイ所属。
-サーバサイドエンジニアとして日々Goを書いている。
+バックエンドエンジニアとして日々Goを書いている。
 Go Conference主催者。golang.tokyo、Goビギナーズ、GCPUG Tokyo運営。
 大学時代にGoに出会い、それ以来のめり込む。
 社内外で自ら勉強会を開催し、Goの普及に取り組んでいる。

@@ -7,6 +7,10 @@
 * [改訂2版 みんなのGo言語](https://www.amazon.co.jp/gp/product/4297107279/ref=dbs_a_def_rwt_bibl_vppi_i0)
 * [逆引き Goによる静的解析](https://tenntenn.booth.pm/items/1319394)
 
+## Articles
+
+* [Go Conference 2014 Autumnレポート](https://gihyo.jp/news/report/01/GoCon2014Autumn)
+
 ## Blogs
 
 * [Qiita](https://qiita.com/tenntenn)

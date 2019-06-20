@@ -50,7 +50,7 @@
 * [配列とスライス](https://docs.google.com/presentation/d/12sATg4KRoKgemxnw25jC0YDg70ROJMkUor1AqxrvdNk/edit?usp=sharing) at [Go in Action 輪読会#4](https://goinaction.connpass.com/event/22828/)
 * [Goとテスト](https://docs.google.com/presentation/d/13xobPultHb9DGS6fXg1tw8uSYEKm5lAIyOeiqlhyHr8/edit?usp=sharing) at [Testing Framework Meeting](https://tddbc.doorkeeper.jp/events/31700)
 * [Goroutineと Channelから はじめるGo言語](https://docs.google.com/presentation/d/1RONHMWJkSOL2-Wr35lFCCJsfn_aD7_mWq41h1jsbbNk/edit?usp=sharing) at [「最近、Go言語始めました」の会](https://connpass.com/event/22536/)
-* [Go初心者向けハンズオン ~コマンドラインツールを作ろう~](https://docs.google.com/presentation/d/1iCIWvuBwX6r_GWbe9BqNoQjyAwRcozQ6A5HpQuC309c/edit?usp=sharing) at [Go言語初心者向けハンズオン](https://gocon.connpass.com/event/21550/)
+* [Go初心者向けハンズオン 〜コマンドラインツールを作ろう〜](https://docs.google.com/presentation/d/1iCIWvuBwX6r_GWbe9BqNoQjyAwRcozQ6A5HpQuC309c/edit?usp=sharing) at [Go言語初心者向けハンズオン](https://gocon.connpass.com/event/21550/)
 * [Goだけでモバイルアプリを作ろう](https://docs.google.com/presentation/d/1JmXYWaI8lKVNe8ElhxP2iCikSwq3Qm4AmpntzC5yuoM/edit?usp=sharing) at [Goオールスターズ](https://techplay.jp/event/571126)
 * [Goだけでモバイルアプリを作る](https://docs.google.com/presentation/d/1E8LuA_wqLWgPHH4dps8I2Ze6DmpPsZBQyqxRkxg5CbE/edit?usp=sharing) at [Kyobashi.go#1](https://kyobashi-go.connpass.com/event/18038/)
 * [gopher-luaを使ってみた](https://docs.google.com/presentation/d/1GxrEsooqfue4zGlp0ymjT3VdzIjatNI5kdGPX-W-oso/edit?usp=sharing) at [Gonosy.go#11](https://gunosygo.connpass.com/event/12343/)

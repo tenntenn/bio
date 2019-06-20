@@ -62,8 +62,8 @@
 * [Go Mobileでモバイルアプリを作ろう](https://docs.google.com/presentation/d/1QHdc3R2hPW1zrR6h77yRTJD2pD0kj4IW6KTDL6aleXI/edit?usp=sharing) at [Golang 勉強会 in Kagawa](https://gdgshikoku.connpass.com/event/26262/)
 * [マスター・オブ・reflectパッケージ II](https://docs.google.com/presentation/d/1dY5YDldcsgFoVO2OQTUVIop0jvjlmZqpkqVJQpDGqP8/edit?usp=sharing) at [第3回 関西golang勉強会](https://kug2.connpass.com/event/29065/)
 * [Go力の高いGopherになるには？](https://docs.google.com/presentation/d/1JIoJmqpibLI2Q2QTQWCRV6AxbxCVAVvd8O4mdyWLjQw/edit?usp=sharing) at [Gopher Students #1](https://gopher.connpass.com/event/39678/)
-* [Go初心者向けハンズオン ~コマンドラインツールを作ろう~](https://docs.google.com/presentation/d/17b3OlhuJjYrZA4Tm5f0DZvS6Sbs4Oo6I1Ox3Lw1Ocuk/edit?usp=sharing) at [Go言語初心者向けハンズオン #2](https://go-beginners.connpass.com/event/25885/)
-* [Go初心者向けハンズオン ~コマンドラインツールを作ろう~](https://docs.google.com/presentation/d/1PFZJ-4NA8mNgJz0VFjSx-HHCVomOV1aZ5QED8KDYm7Y/edit?usp=sharing) at [Go言語初心者向けハンズオン #3](https://go-beginners.connpass.com/event/39677/)
+* [Go初心者向けハンズオン 〜コマンドラインツールを作ろう〜](https://docs.google.com/presentation/d/17b3OlhuJjYrZA4Tm5f0DZvS6Sbs4Oo6I1Ox3Lw1Ocuk/edit?usp=sharing) at [Go言語初心者向けハンズオン #2](https://go-beginners.connpass.com/event/25885/)
+* [Go初心者向けハンズオン 〜コマンドラインツールを作ろう〜](https://docs.google.com/presentation/d/1PFZJ-4NA8mNgJz0VFjSx-HHCVomOV1aZ5QED8KDYm7Y/edit?usp=sharing) at [Go言語初心者向けハンズオン #3](https://go-beginners.connpass.com/event/39677/)
 * [GoでWebアプリを開発してみよう](https://docs.google.com/presentation/d/11pXIkqbkF_n9J_QPx_63jyRepOf_u4Z7Ry0jskgJ4Lo/edit?usp=sharing) at [Go言語LT大会！ 「最近、Go言語始めました」の会](https://go-beginners.connpass.com/event/28621/)
 
 ### 2017

@@ -27,7 +27,7 @@
 
 ### 2019
 * [Quick Start Static Analysis](http://bit.ly/quickstartstaticanalysis) at [GopherCon EU 2019 LT](https://www.gophercon.es/)
-* [Go Quiz](https://docs.google.com/presentation/d/1wp1odSpNmYmFkdYVk-Xn6M5ipbXcOi0cxMiI3ujKa6U/edit?usp=sharing) at [Go Conference 2019 Spring](
+* [Go Quiz](https://docs.google.com/presentation/d/1wp1odSpNmYmFkdYVk-Xn6M5ipbXcOi0cxMiI3ujKa6U/edit?usp=sharing) at [Go Conference 2019 Spring](https://gocon.connpass.com/event/124530/)
 
 ## Meetup
 

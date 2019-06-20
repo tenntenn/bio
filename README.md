@@ -16,11 +16,11 @@ Go Conference主催者。golang.tokyo、Goビギナーズ、GCPUG Tokyo運営。
 * Twitter: https://twitter.com
 * Qiita: https://qiita.com/tenntenn
 * SlideShare: https://www.slideshare.net/takuyaueda967/
-* [Talks](talks.md)
-* [Writings](writing.md)
-* [Projects](project.md)
-* [Communities](community.md)
-* [Education](education.md)
+* [発表資料](talks.md)
+* [執筆](writing.md)
+* [プロジェクト](project.md)
+* [コミュニティ](community.md)
+* [教育](education.md)
 
 ## English
 

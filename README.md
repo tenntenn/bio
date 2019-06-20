@@ -20,7 +20,7 @@ Go Conference主催者。golang.tokyo、Goビギナーズ、GCPUG Tokyo運営。
 * [Writings](writing.md)
 * [Projects](project.md)
 * [Communities](community.md)
-* [Eduction](eduction.md)
+* [Education](education.md)
 
 ## English
 
@@ -38,4 +38,4 @@ He also loves the Go Gopher and drawing Gopher illustrations.
 * [Writings](writing.md)
 * [Projects](project.md)
 * [Communities](community.md)
-* [Eduction](eduction.md)
+* [Education](education.md)

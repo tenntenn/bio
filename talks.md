@@ -111,6 +111,8 @@
 * [分かるゴールーチンとチャネル](https://docs.google.com/presentation/d/1y-iFHzxKTPmly6TlPRNlne-8rsPJ_IJMSQboHkOcFBo/edit?usp=sharing) at [ドメイン駆動設計・OSS入門・Golangハンズオン](https://camphor.connpass.com/event/104719/)
 * [Goで静的解析ツールを作ろう](https://docs.google.com/presentation/d/1KjzmhlRW0wg17__IKG7MQtL8PEu49hguQEpmYwksPWw/edit?usp=sharing) at N高等学校 プログラミング クラスLT大会
 * [ステップアップGo PART3：Webアプリを作ろう](https://docs.google.com/presentation/d/1yNotGSSXdvV8IWcACT-fjfR2FAHqSdrPo5xA-Mk1sbQ/edit?usp=sharing) at [Women Who Go Tokyo #22 ステップアップGo](https://womenwhogo-tokyo.connpass.com/event/84440/)
+
+### 2019
 * [技術コミュニティにおける継続的な学習の場の提供](https://docs.google.com/presentation/d/1BMdvoEi1iug5FdMd0Bj_A1SaTdxOgpddQhRoaqGUlyA/edit?usp=sharing) at [プログラミング教育LT交流会](https://connpass.com/event/113304/)
 * [What's New Go1.12?](https://docs.google.com/presentation/d/1KMmFfcI7eTxIqco4vuw_THiCI3yrjSOm50ZnoPhJkQI/edit?usp=sharing) at [Go1.12 Release Party in Tokyo](https://gocon.connpass.com/event/118022/)
 * [ポメラニアン専用Goコンパイラ](https://docs.google.com/presentation/d/1gwWeUcjJFyIv5IVEaPAvn_petS3VB68aw9kFtZvche4/edit?usp=sharing) at [mercari.go #6](https://mercari.connpass.com/event/118695/)

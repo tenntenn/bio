@@ -16,6 +16,11 @@ Go Conference主催者。golang.tokyo、Goビギナーズ、GCPUG Tokyo運営。
 * Twitter: https://twitter.com
 * Qiita: https://qiita.com/tenntenn
 * SlideShare: https://www.slideshare.net/takuyaueda967/
+* [Talks](talks.md)
+* [Writings](writing.md)
+* [Projects](project.md)
+* [Communities](community.md)
+* [Eduction](eduction.md)
 
 ## English
 
@@ -29,3 +34,8 @@ He also loves the Go Gopher and drawing Gopher illustrations.
 * Twitter: https://twitter.com
 * Qiita: https://qiita.com/tenntenn
 * SlideShare: https://www.slideshare.net/takuyaueda967/
+* [Talks](talks.md)
+* [Writings](writing.md)
+* [Projects](project.md)
+* [Communities](community.md)
+* [Eduction](eduction.md)

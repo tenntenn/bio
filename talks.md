@@ -120,3 +120,6 @@
 * [絶対にわかるポインタ](http://bit.ly/zettaiptr) at [golang.tokyo#23](https://golangtokyo.connpass.com/event/126673/)
 * [GothamGoとGopherCon EUにいってきた！](http://bit.ly/tenntennmercarigo8) at [mercari.go#8](https://mercari.connpass.com/event/132114/) 
 * [キケンで便利なunsafeパッケージ](http://bit.ly/unsafeptr) at [kamakura.go#5](https://kamakurago.connpass.com/event/133493/)
+* [Goクイズ06028](https://docs.google.com/presentation/d/1PybkO6XBK4V-_2aUuh-lEwr9nylMMQCdjfW3_vzQc0U/edit) at [ハッカーズチャンプルー2019 前夜祭](https://hackers-champloo.doorkeeper.jp/events/92426)
+* [人類Gopher化計画](http://bit.ly/human2gopher) at [ハッカーズチャンプルー2019](http://hackers-champloo.org/2019/)
+* [テストを書こう](http://bit.ly/gotesthandson) at [ハッカーズチャンプルー2019](http://hackers-champloo.org/2019/)

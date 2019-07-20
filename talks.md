@@ -29,7 +29,7 @@
 * [Quick Start Static Analysis](http://bit.ly/quickstartstaticanalysis) at [GopherCon EU 2019 LT](https://www.gophercon.es/)
 * [Go Quiz](https://docs.google.com/presentation/d/1wp1odSpNmYmFkdYVk-Xn6M5ipbXcOi0cxMiI3ujKa6U/edit?usp=sharing) at [Go Conference 2019 Spring](https://gocon.connpass.com/event/124530/)
 * [Goによる静的解析のはじめかた](http://bit.ly/startinggoanalysis) at [Go Conference'19 Summer in Fukuoka](https://fukuokago.connpass.com/event/130797/)
-* [Go Quiz Analyzer (LT)](http://bit.ly/goquizanalyzer) at [Go Conference'19 Summer in Fukuoka](https://fukuokago.connpass.com/event/130797/)
+* [Go Quiz Analyzer](http://bit.ly/goquizanalyzer) at [Go Conference'19 Summer in Fukuoka LT](https://fukuokago.connpass.com/event/130797/)
 
 ## Meetup
 

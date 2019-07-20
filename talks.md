@@ -28,6 +28,8 @@
 ### 2019
 * [Quick Start Static Analysis](http://bit.ly/quickstartstaticanalysis) at [GopherCon EU 2019 LT](https://www.gophercon.es/)
 * [Go Quiz](https://docs.google.com/presentation/d/1wp1odSpNmYmFkdYVk-Xn6M5ipbXcOi0cxMiI3ujKa6U/edit?usp=sharing) at [Go Conference 2019 Spring](https://gocon.connpass.com/event/124530/)
+* [Goによる静的解析のはじめかた](http://bit.ly/startinggoanalysis) at [Go Conference'19 Summer in Fukuoka](https://fukuokago.connpass.com/event/130797/)
+* [Go Quiz Analyzer (LT)](http://bit.ly/goquizanalyzer) at [Go Conference'19 Summer in Fukuoka](https://fukuokago.connpass.com/event/130797/)
 
 ## Meetup
 
@@ -123,3 +125,4 @@
 * [Goクイズ06028](https://docs.google.com/presentation/d/1PybkO6XBK4V-_2aUuh-lEwr9nylMMQCdjfW3_vzQc0U/edit) at [ハッカーズチャンプルー2019 前夜祭](https://hackers-champloo.doorkeeper.jp/events/92426)
 * [人類Gopher化計画](http://bit.ly/human2gopher) at [ハッカーズチャンプルー2019](http://hackers-champloo.org/2019/)
 * [テストを書こう](http://bit.ly/gotesthandson) at [ハッカーズチャンプルー2019](http://hackers-champloo.org/2019/)
+* [The Go Playground上で簡単に複数のファイルをシェアする](http://bit.ly/goplaygroundgp) at [mercari.go#9](https://mercari.connpass.com/event/137488/)

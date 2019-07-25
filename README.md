@@ -8,6 +8,7 @@
 
 メルカリ／メルペイ所属。
 バックエンドエンジニアとして日々Goを書いている。
+Google Developer Expert (Go)。
 Go Conference主催者。golang.tokyo、Goビギナーズ、GCPUG Tokyo運営。
 大学時代にGoに出会い、それ以来のめり込む。
 社内外で自ら勉強会を開催し、Goの普及に取り組んでいる。
@@ -28,6 +29,7 @@ Go Conference主催者。golang.tokyo、Goビギナーズ、GCPUG Tokyo運営。
 
 Takuya Ueda is a Go engineer for Mercari, Inc.
 He is one of organizer of Go Conference in Japan.
+He is Google Developer Expert (Go).
 He works for the growth of the Go community in Japan.
 He also loves the Go Gopher and drawing Gopher illustrations.
 
